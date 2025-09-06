@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA_EXPORT>
+    <METADATA>
+        <EXPORT_DATE>20250815</EXPORT_DATE>
+        <SYSTEM>LEGACY_ERP_V2.3</SYSTEM>
+    </METADATA>
+    <RECORDS>
+        <REC>
+            <FLD01>6000</FLD01>
+            <FLD02>Joseph-Brooks</FLD02>
+            <FLD03>, 2, 2, 3, 3,  , R, i, c, k, y,  , B, r, i, d, g, e,  , S, u, i, t, e,  , 6, 3, 3, 
+, N, o, r, t, h,  , G, r, e, g, o, r, y, ,,  , N, V,  , 8, 1, 3, 8, 0, </FLD03>
+            <FLD04>Y</FLD04>
+            <FLD05>66887.64</FLD05>
+            <FLD06>20241014</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6001</FLD01>
+            <FLD02>Nguyen, Ellis and Wright</FLD02>
+            <FLD03>, 6, 5, 6,  , A, b, i, g, a, i, l,  , M, i, s, s, i, o, n, 
+, W, i, l, c, o, x, t, o, n, ,,  , F, M,  , 3, 2, 7, 0, 8, </FLD03>
+            <FLD04>Y</FLD04>
+            <FLD05>38460.03</FLD05>
+            <FLD06>20250111</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6002</FLD01>
+            <FLD02>Foster, Moss and Grant</FLD02>
+            <FLD03>, 4, 7, 6, 4, 4,  , J, a, c, k, s, o, n,  , H, i, l, l, 
+, L, a, k, e,  , Z, a, c, h, a, r, y, b, e, r, g, ,,  , N, H,  , 8, 5, 1, 8, 6, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>69161.35</FLD05>
+            <FLD06>20240617</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6003</FLD01>
+            <FLD02>Sharp Inc</FLD02>
+            <FLD03>, 6, 5, 7, 0,  , S, h, a, w, n,  , S, t, a, t, i, o, n, 
+, S, o, u, t, h,  , C, h, r, i, s, t, o, p, h, e, r, ,,  , M, D,  , 9, 1, 1, 6, 5, </FLD03>
+            <FLD04>Y</FLD04>
+            <FLD05>18593.12</FLD05>
+            <FLD06>20220105</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6004</FLD01>
+            <FLD02>Quinn, Davis and Mccarthy</FLD02>
+            <FLD03>, 6, 8, 9,  , N, i, c, h, o, l, a, s,  , L, i, g, h, t, 
+, P, o, r, t,  , G, e, o, r, g, e, m, o, u, t, h, ,,  , O, K,  , 8, 6, 9, 4, 6, </FLD03>
+            <FLD04>Y</FLD04>
+            <FLD05>94930.02</FLD05>
+            <FLD06>20211123</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6005</FLD01>
+            <FLD02>Melton and Sons</FLD02>
+            <FLD03>, 4, 4, 7, 4,  , D, a, v, i, d,  , C, u, r, v, e, 
+, N, o, r, t, h,  , C, i, n, d, y, ,,  , K, S,  , 0, 2, 1, 0, 1, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>39768.54</FLD05>
+            <FLD06>20240708</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6006</FLD01>
+            <FLD02>Foley-Stephens</FLD02>
+            <FLD03>, 3, 9, 7, 7, 6,  , M, i, l, l, e, r,  , R, a, p, i, d,  , A, p, t, .,  , 3, 8, 4, 
+, N, o, r, t, h,  , J, a, c, k, ,,  , A, R,  , 8, 6, 1, 2, 7, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>4205.89</FLD05>
+            <FLD06>20230803</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6007</FLD01>
+            <FLD02>Thomas Inc</FLD02>
+            <FLD03>, 1, 0, 1, 6,  , E, v, a, n,  , H, a, v, e, n,  , A, p, t, .,  , 7, 9, 5, 
+, N, o, r, t, h,  , K, a, y, l, a, m, o, u, t, h, ,,  , M, N,  , 5, 0, 1, 6, 9, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>32503.47</FLD05>
+            <FLD06>20210312</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6008</FLD01>
+            <FLD02>Bridges-Brown</FLD02>
+            <FLD03>, 4, 5, 8,  , W, a, r, r, e, n,  , S, q, u, a, r, e, 
+, N, e, w,  , B, r, i, a, n, ,,  , O, K,  , 9, 6, 1, 4, 7, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>22868.63</FLD05>
+            <FLD06>20250212</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6009</FLD01>
+            <FLD02>Webb Ltd</FLD02>
+            <FLD03>, 9, 5, 4, 8,  , H, o,  , R, i, d, g, e, s,  , S, u, i, t, e,  , 8, 7, 7, 
+, N, e, w,  , J, e, s, s, e, ,,  , L, A,  , 2, 5, 8, 7, 0, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>11306.91</FLD05>
+            <FLD06>20200818</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6010</FLD01>
+            <FLD02>Johnson Ltd</FLD02>
+            <FLD03>, 6, 6, 0,  , B, a, i, l, e, y,  , V, a, l, l, e, y, 
+, N, o, r, t, h,  , D, a, n, i, e, l, l, e, ,,  , U, T,  , 3, 7, 4, 1, 4, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>14923.69</FLD05>
+            <FLD06>20221013</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6011</FLD01>
+            <FLD02>Parker PLC</FLD02>
+            <FLD03>, 5, 5, 6, 9, 9,  , M, a, r, i, l, y, n,  , F, i, e, l, d, s, 
+, M, a, r, t, h, a, f, o, r, t, ,,  , P, W,  , 6, 2, 6, 9, 4, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>8702.86</FLD05>
+            <FLD06>20201202</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6012</FLD01>
+            <FLD02>Taylor, Moore and Murray</FLD02>
+            <FLD03>, 6, 0, 8, 4,  , P, e, t, e, r, s,  , B, r, o, o, k,  , A, p, t, .,  , 9, 5, 5, 
+, E, a, s, t,  , J, u, a, n, t, o, w, n, ,,  , M, A,  , 4, 9, 6, 8, 4, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>98255.59</FLD05>
+            <FLD06>20250228</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6013</FLD01>
+            <FLD02>Duncan Group</FLD02>
+            <FLD03>, 5, 0, 4, 6,  , T, y, l, e, r,  , F, r, e, e, w, a, y, 
+, S, h, a, n, n, o, n, p, o, r, t, ,,  , I, L,  , 6, 9, 3, 2, 6, </FLD03>
+            <FLD04>Y</FLD04>
+            <FLD05>63982.49</FLD05>
+            <FLD06>20230311</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6014</FLD01>
+            <FLD02>Rodriguez Inc</FLD02>
+            <FLD03>, 8, 0, 7, 8,  , J, a, m, e, s,  , O, r, c, h, a, r, d, 
+, K, i, m, b, e, r, l, y, b, e, r, g, ,,  , W, I,  , 1, 3, 3, 7, 9, </FLD03>
+            <FLD04>Y</FLD04>
+            <FLD05>82344.52</FLD05>
+            <FLD06>20250103</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6015</FLD01>
+            <FLD02>Haney, Harris and Johnson</FLD02>
+            <FLD03>, 4, 0, 9, 1, 5,  , S, m, a, l, l,  , C, o, v, e, 
+, A, n, d, r, e, w, p, o, r, t, ,,  , S, C,  , 2, 8, 0, 0, 5, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>64271.17</FLD05>
+            <FLD06>20230507</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6016</FLD01>
+            <FLD02>Lee LLC</FLD02>
+            <FLD03>, 1, 4, 2,  , J, o, s, h, u, a,  , B, r, i, d, g, e,  , A, p, t, .,  , 3, 8, 5, 
+, J, o, s, e, p, h, p, o, r, t, ,,  , O, K,  , 3, 2, 5, 9, 0, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>45216.36</FLD05>
+            <FLD06>20220128</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6017</FLD01>
+            <FLD02>Collins LLC</FLD02>
+            <FLD03>, 0, 7, 0, 1, 6,  , C, h, r, i, s, t, o, p, h, e, r,  , L, o, c, k, 
+, L, a, k, e,  , C, a, i, t, l, i, n, ,,  , O, R,  , 8, 3, 0, 0, 6, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>21758.74</FLD05>
+            <FLD06>20240530</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6018</FLD01>
+            <FLD02>Kelly, Cook and Gonzalez</FLD02>
+            <FLD03>, 9, 2, 1, 7,  , S, t, a, n, l, e, y,  , S, p, u, r, 
+, R, u, i, z, b, u, r, y, ,,  , F, L,  , 8, 1, 3, 6, 4, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>7711.68</FLD05>
+            <FLD06>20221024</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6019</FLD01>
+            <FLD02>Myers-Lyons</FLD02>
+            <FLD03>, 7, 0, 1, 7,  , M, i, c, h, a, e, l,  , M, o, u, n, t, a, i, n,  , A, p, t, .,  , 4, 5, 9, 
+, N, e, w,  , D, a, k, o, t, a, ,,  , G, U,  , 9, 4, 1, 2, 2, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>78914.98</FLD05>
+            <FLD06>20210712</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6020</FLD01>
+            <FLD02>Hawkins-Jones</FLD02>
+            <FLD03>, 9, 6, 3, 9,  , A, m, y,  , O, r, c, h, a, r, d,  , S, u, i, t, e,  , 1, 5, 3, 
+, M, u, e, l, l, e, r, c, h, e, s, t, e, r, ,,  , O, K,  , 4, 5, 3, 5, 3, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>1126.83</FLD05>
+            <FLD06>20250401</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6021</FLD01>
+            <FLD02>Young, Bates and Miller</FLD02>
+            <FLD03>, U, S, C, G, C,  , W, i, l, s, o, n, 
+, F, P, O,  , A, P,  , 6, 1, 1, 7, 5, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>44383.79</FLD05>
+            <FLD06>20230521</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6022</FLD01>
+            <FLD02>Davis, Wallace and Parker</FLD02>
+            <FLD03>, 9, 6, 5,  , N, e, w, m, a, n,  , C, i, r, c, l, e, 
+, E, a, s, t,  , L, i, s, a, s, h, i, r, e, ,,  , M, H,  , 9, 9, 4, 5, 8, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>96941.08</FLD05>
+            <FLD06>20200814</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6023</FLD01>
+            <FLD02>Guerrero Group</FLD02>
+            <FLD03>, 9, 7, 3,  , E, r, i, n,  , I, s, l, a, n, d,  , S, u, i, t, e,  , 9, 4, 6, 
+, V, e, r, o, n, i, c, a, s, h, i, r, e, ,,  , A, L,  , 8, 0, 6, 5, 0, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>49815.12</FLD05>
+            <FLD06>20241216</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6024</FLD01>
+            <FLD02>Abbott-Phelps</FLD02>
+            <FLD03>, 8, 5, 1, 4, 0,  , R, y, a, n,  , R, a, m, p, 
+, G, a, r, r, e, t, t, f, u, r, t, ,,  , M, O,  , 5, 0, 5, 1, 3, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>35771.89</FLD05>
+            <FLD06>20240427</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6025</FLD01>
+            <FLD02>Clark, Thompson and Taylor</FLD02>
+            <FLD03>, 2, 4, 2, 2,  , C, h, a, r, l, e, s,  , B, r, o, o, k,  , A, p, t, .,  , 7, 6, 2, 
+, E, a, s, t,  , D, a, w, n, c, h, e, s, t, e, r, ,,  , V, I,  , 6, 0, 2, 7, 3, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>11041.43</FLD05>
+            <FLD06>20240328</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6026</FLD01>
+            <FLD02>White, Hicks and Arnold</FLD02>
+            <FLD03>, 2, 6, 9, 0, 9,  , B, r, a, d, f, o, r, d,  , F, r, e, e, w, a, y,  , S, u, i, t, e,  , 6, 8, 9, 
+, A, r, t, h, u, r, t, o, n, ,,  , O, K,  , 6, 3, 8, 4, 3, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>79084.27</FLD05>
+            <FLD06>20231003</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6027</FLD01>
+            <FLD02>Carpenter Ltd</FLD02>
+            <FLD03>, 8, 1, 8, 9,  , J, o, h, n,  , R, o, a, d, s,  , A, p, t, .,  , 8, 9, 4, 
+, W, e, s, t,  , A, m, a, n, d, a, t, o, w, n, ,,  , N, J,  , 6, 0, 0, 1, 2, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>65445.99</FLD05>
+            <FLD06>20241223</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6028</FLD01>
+            <FLD02>Berry-Rivera</FLD02>
+            <FLD03>, 2, 0, 9, 4,  , B, r, o, w, n,  , M, o, u, n, t, a, i, n, s,  , A, p, t, .,  , 9, 0, 4, 
+, W, e, s, t,  , T, o, d, d, b, e, r, g, ,,  , N, Y,  , 1, 0, 5, 7, 5, </FLD03>
+            <FLD04></FLD04>
+            <FLD05>23332.69</FLD05>
+            <FLD06>20221225</FLD06>
+        </REC>
+        <REC>
+            <FLD01>6029</FLD01>
+            <FLD02>Anderson-Campbell</FLD02>
+            <FLD03>, 1, 9, 2,  , D, o, n, n, a,  , L, a, n, d, 
+, W, e, s, t,  , K, i, m, b, e, r, l, y, ,,  , I, A,  , 6, 4, 0, 6, 0, </FLD03>
+            <FLD04>N</FLD04>
+            <FLD05>8297.23</FLD05>
+            <FLD06>20220226</FLD06>
+        </REC>
+    </RECORDS>
+</DATA_EXPORT>

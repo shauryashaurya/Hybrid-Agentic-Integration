@@ -1,0 +1,91 @@
+{
+  "field_mappings": [
+    {
+      "source_fields": [
+        "Customer_ID",
+        "CustID",
+        "client_number",
+        "customer_id",
+        "cust_num"
+      ],
+      "target_field": "customer_id",
+      "confidence": 0.95,
+      "reasoning": "All fields represent unique customer identifiers"
+    },
+    {
+      "source_fields": [
+        "Full_Name",
+        "CustomerName",
+        "name",
+        "client_name",
+        "cust_name"
+      ],
+      "target_field": "customer_name",
+      "confidence": 0.98,
+      "reasoning": "All fields contain customer name information"
+    },
+    {
+      "source_fields": [
+        "Email_Address",
+        "ContactEmail",
+        "email_addr",
+        "email",
+        "contact"
+      ],
+      "target_field": "email",
+      "confidence": 0.92,
+      "reasoning": "Fields contain email contact information"
+    },
+    {
+      "source_fields": [
+        "Registration_Date",
+        "SignupDate",
+        "created_at",
+        "date_created",
+        "reg_dt"
+      ],
+      "target_field": "created_date",
+      "confidence": 0.88,
+      "reasoning": "Timestamps indicating when record was created"
+    }
+  ],
+  "type_mappings": {
+    "date_formats": [
+      "%Y-%m-%d",
+      "%m/%d/%Y",
+      "%d-%m-%Y",
+      "%Y%m%d"
+    ],
+    "boolean_representations": [
+      [
+        "true",
+        "false"
+      ],
+      [
+        "Y",
+        "N"
+      ],
+      [
+        "1",
+        "0"
+      ],
+      [
+        "Active",
+        "Inactive"
+      ],
+      [
+        "A",
+        "I"
+      ]
+    ],
+    "null_values": [
+      "",
+      "NULL",
+      "null",
+      "None",
+      "N/A",
+      "-",
+      "#N/A"
+    ]
+  }
+}
